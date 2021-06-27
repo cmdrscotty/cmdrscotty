@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cmdrscotty
+- 👀 I’m interested in writing code for automotive applications (Arduino, ESP8266 and ESP32)
+- 🌱 I’m currently learning C#, C++, and python
+- 📫 You can reach me by sending me a message here on GitHub or my website www.commanderscotty.com
